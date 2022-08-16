@@ -7,7 +7,7 @@ This project was built using React JS and utilizing Firebase  database for backe
 
 # Firebase
 
-You can create your Firebase backend server for free using this [link](https://www.scaledrone.com/).
+You can create your Firebase backend server for free using this [link](https://firebase.google.com/).
 
 # Getting Started with Create React App
 
