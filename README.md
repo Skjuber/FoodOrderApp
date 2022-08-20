@@ -1,5 +1,5 @@
 # Food order application
-This project was built using React JS and utilizing Firebase  database for backend server.
+This project was built using React JS while utilizing Firebase  database for the backend server.
 
 # Technologies
 - React JS 	18.2.0 
@@ -7,7 +7,7 @@ This project was built using React JS and utilizing Firebase  database for backe
 
 # Firebase
 
-You can create your Firebase backend server for free using this [link](https://firebase.google.com/).
+You can create your own Firebase backend server for free [here](https://firebase.google.com/).
 
 # Getting Started with Create React App
 
